@@ -1,2 +1,25 @@
 # FakeCoin_Algorithm_Term_Project
-Algorithm term project at University of Seoul, 2020, 1st semester
+2020년 서울시립대 알고리즘 텀 프로젝트 최종 결과물
+
+
+
+```
+문제
+100개의 동전 중 가짜동전이 p개 정도 존재한다. 가짜동전을 찾아내라.
+
+세부조건
+양팔저울을 이용한다. 가짜동전의 무게가 더 가볍다. 양팔 저울 양쪽에 올릴 수 있는 동전의 개수에 제약은 없다.
+```
+
+
+
+Compare by 3
+
+Compare by 5
+
+Static Finding
+
+
+
+세가지 알고리즘을 중심으로 프로그램이 진행됨.
+
